@@ -2,9 +2,6 @@
  
 A responsive-minded finance landing page built from scratch in **Flutter**, with scroll-triggered animations and a clean, reusable widget structure.
  
-> 🎬 **Demo:** _add your screen recording / GIF here_
-> 🌐 **Live link:** _add link if you deploy it (optional)_
- 
 ---
 ## 📸 Screenshots
  
