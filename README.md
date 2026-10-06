@@ -5,7 +5,9 @@ A responsive-minded finance landing page built from scratch in **Flutter**, with
 ---
 ## 📸 Screenshots
  
-_Add 2-3 screenshots here._
+<p align="center">
+  <img src="preview/noble-finance-landing-page-full.png" width="700" alt="Noble Finance landing page preview" />
+</p>
  
 ## ✨ Features
  
